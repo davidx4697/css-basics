@@ -33,5 +33,42 @@ body {
 }
 code {
     color: #CE234C;
-    background-color: lightgra;
+    background-color: lightgray;
 }
+.snippet{
+    background-color: lightgray;
+}
+#font-practice {
+    color: green;
+    font-family: "Arial";
+    font-style: italic;
+    font-size: 16px;
+}
+
+
+/* Link rules */ 
+
+a:link {
+    color: green;
+}
+a:visited {
+    color:black;
+}
+a:hover {
+ color:red;
+}
+a:active {
+    color:blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
